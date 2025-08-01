@@ -1,0 +1,92 @@
+
+.conteyner{
+    max-width: 1500px;
+}
+.navbar{
+    display: flex;
+    margin: 60px 100px ;
+}
+.bum{
+    font-size: 20px ;
+    margin: 10px 10px 10px 600px ;                                                                    
+}
+.Home{
+    color: #FF6838;
+    text-decoration: none;
+    margin: 0px 40px ;
+}
+.vik{
+    color: #363853;
+    text-decoration: none;
+    margin: 0px 15px ;
+}
+button{
+    font-size: 20px;
+    background-color: #FF6838;
+    padding: 15px 20px ;
+    color: white;
+    border-radius: 5px;
+    border: solid 1px  #FF6838;
+}
+.bigtext{
+    margin:100px 230px ;
+    display: flex;
+}
+.xbigtext{
+    margin:0px 200px ;
+    display: flex;
+}
+.bigtextn{
+    margin:100px 200px ;
+    display: flex;
+}
+.text{
+    margin: 100px 10px 10px 0px ;
+}
+.p{
+    display: flex;
+}
+.bigpizza{
+    display: flex;
+    justify-content: space-around;
+}
+.pizza{
+    color: #363853;
+}
+.tt{
+    text-align: center;
+    color: #363853;
+}
+span{
+    color: #FF7A50;
+}
+p{
+    color: #363853;
+}
+.block{
+    background-color: #FF7A50;
+    height: 400px;
+    margin: 0px 150px;
+    border-radius: 20px ;
+}
+.in{
+    width: 800px ;
+    height: 70px ;
+    border: solid 1px white;
+    border-radius: 40px ;
+    color: #363853;
+    padding: 0px 30px ;
+    margin: 0px 150px ;
+}
+.bi{
+    text-align: center;
+    margin: 70px 10px 100px 10px ;
+    font-size: 40px ;
+    color: white;
+}
+.vp{
+    position: relative;
+    bottom: 63px ;
+    left: 870px ;
+    border-radius: 70px;
+}
